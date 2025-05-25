@@ -1,15 +1,41 @@
 <p align="center">
   <img src="banner.png" alt="Banner"/>
 </p>
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Saduni Amarasekara <br><br><center>🚀 Fast Learner | Tinkerer | Developer | Explorer | Risk-Taker</center><br><br>I'm a passionate **Software Engineering student** who thrives on turning ideas into real-world solutions. With a strong interest in **web development** and **object-oriented programming**, I enjoy building creative, functional projects—from **AI-powered tools** to **responsive web apps** that make everyday life easier and smarter 🌍💡.<br><br>🔧 I love experimenting with **new technologies**, exploring how things work, and pushing boundaries. Whether it's crafting sleek user interfaces or writing clean, efficient backend code, I'm always ready to learn and level up.<br><br>🌱 Currently diving deeper into:  <br>- Modern web frameworks  <br>- AI integrations  <br>- Real-time systems  <br>- Problem-solving through code<br><br>💡 My goal To create **tech that connects, empowers, and innovates**—one project at a time. Let's build the future together!<br>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <strong>Hi there, I'm Saduni Amarasekara</strong>
+</p>
+
+<h3 align="center">🚀 Fast Learner | Tinkerer | Developer | Explorer | Risk-Taker</h3>
+
+<br>
+
+I'm a passionate <strong>Software Engineering student</strong> driven by a love for turning ideas into impactful real-world solutions. With a solid foundation in <strong>web development</strong> and <strong>object-oriented programming</strong>, I enjoy building projects that blend functionality with creativity — from <strong>AI-powered assistants</strong> to <strong>responsive web apps</strong> that simplify and enrich everyday life. 🌍💡
+
+<br>
+
+🔧 I thrive on learning and experimenting with <strong>emerging technologies</strong>, pushing limits to understand how things work. Whether it's crafting elegant UI designs or writing clean, efficient backend logic, I'm always excited to level up my skills.
+
+<br>
+
+🌱 <strong>Currently exploring:</strong>
+<ul>
+  <li>⚙️ Modern web frameworks</li>
+  <li>🤖 AI integrations</li>
+  <li>📡 Real-time systems</li>
+  <li>🧠 Problem-solving through code</li>
+</ul>
+
+💡 <strong>My mission:</strong> To create technology that <em>connects</em>, <em>empowers</em>, and <em>innovates</em> — one project at a time. Let’s build a smarter future together! 🚀
 
 
-## 🌐 Socials:
+
+## 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saduni-amarasekara-147451278/) 
 
-# 💻 Tech Stack:
+# 💻 My Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SaduAmarasekara&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SaduAmarasekara&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaduAmarasekara&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
