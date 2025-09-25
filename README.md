@@ -5,10 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=SaduAmarasekara&label=Profile%20views&color=1e90ff&style=flat" alt="SaduAmarasekara" />
 </p>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <strong>Hi there, I'm Saduni Amarasekara</strong>
-</p>
+
 
 <h3 align="center">  Fast Learner | Tinkerer | Developer | Explorer | Risk-Taker</h3>
 
