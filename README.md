@@ -21,13 +21,13 @@ I'm a passionate <strong>Software Engineering student</strong> driven by a love 
 
 🌱 <strong>Currently exploring:</strong>
 <ul>
-  <li>⚙️ Modern web frameworks</li>
-  <li>🤖 AI integrations</li>
-  <li>📡 Real-time systems</li>
-  <li>🧠 Problem-solving through code</li>
+  <li> Modern web frameworks</li>
+  <li>AI integrations</li>
+  <li>Real-time systems</li>
+  <li>Problem-solving through code</li>
 </ul>
 
-💡 <strong>My mission:</strong> To create technology that <em>connects</em>, <em>empowers</em>, and <em>innovates</em> — one project at a time. Let’s build a smarter future together! 🚀
+ <strong>My mission:</strong> To create technology that <em>connects</em>, <em>empowers</em>, and <em>innovates</em> — one project at a time. Let’s build a smarter future together! 🚀
 
 
 
