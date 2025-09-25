@@ -11,11 +11,11 @@
 
 <br>
 
-I'm a passionate <strong>Software Engineering student</strong> driven by a love for turning ideas into impactful real-world solutions. With a solid foundation in <strong>web development</strong> and <strong>object-oriented programming</strong>, I enjoy building projects that blend functionality with creativity — from <strong>AI-powered assistants</strong> to <strong>responsive web apps</strong> that simplify and enrich everyday life. 🌍💡
+I'm a passionate <strong>Software Engineering student</strong> driven by a love for turning ideas into impactful real-world solutions. With a solid foundation in <strong>web development</strong> and <strong>object-oriented programming</strong>, I enjoy building projects that blend functionality with creativity — from <strong>AI-powered assistants</strong> to <strong>responsive web apps</strong> that simplify and enrich everyday life. 
 
 <br>
 
-🔧 I thrive on learning and experimenting with <strong>emerging technologies</strong>, pushing limits to understand how things work. Whether it's crafting elegant UI designs or writing clean, efficient backend logic, I'm always excited to level up my skills.
+ I thrive on learning and experimenting with <strong>emerging technologies</strong>, pushing limits to understand how things work. Whether it's crafting elegant UI designs or writing clean, efficient backend logic, I'm always excited to level up my skills.
 
 <br>
 
@@ -27,7 +27,7 @@ I'm a passionate <strong>Software Engineering student</strong> driven by a love 
   <li>Problem-solving through code</li>
 </ul>
 
- <strong>My mission:</strong> To create technology that <em>connects</em>, <em>empowers</em>, and <em>innovates</em> — one project at a time. Let’s build a smarter future together! 🚀
+ <strong>My mission:</strong> To create technology that <em>connects</em>, <em>empowers</em>, and <em>innovates</em> — one project at a time. Let’s build a smarter future together! 
 
 
 
